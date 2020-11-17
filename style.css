@@ -1,0 +1,28 @@
+a {
+  text-decoration: none;
+  padding: 9.75px 13px;
+}
+
+div {
+  text-align: right;
+  font-size: 15px;
+  padding: 40px 20px;
+}
+
+button {
+  background-color: #70d0ec; 
+  border: none;
+  color: white;
+  margin-left: 1em;
+  padding: 1em 1.5em !important;
+  text-align: center;
+  text-decoration: none;
+  letter-spacing: 2px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.8;
+  color: white;
+}
